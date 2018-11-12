@@ -951,6 +951,15 @@ ul.portfolio-image li .desc{
   padding-right: 10px;
   font-weight: 500;
 }
+
+.text-td{
+  padding-left: 10px;
+  letter-spacing: 0.5px;
+  font-size: 13px;
+  line-height: 34px;
+  font-weight: 300;
+}
+
 .wrap-about .w-content td.break{
   padding-right: 15px;
 }
